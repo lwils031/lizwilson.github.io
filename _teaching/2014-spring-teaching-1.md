@@ -8,24 +8,8 @@ date: 2014-01-01
 location: "Riverside, CA"
 ---
 
-Courses Taught
-•	Introductory Psychology [Spring 2024] 
-•	Social Psychology [Winter 2024]
-•	Statistical Procedures [Fall 2023] 
-•	Health Psychology [Summer 2023] 
-•	Industrial-Organizational Psychology [Summer 2023] 
-•	Psychological Methods [Fall 2022] 
-•	Psychological Methods [Summer 2022] 
-•	Introductory Psychology [Summer 2022] 
-•	Psychological Methods [Spring 2022] 
-•	Introductory Psychology [Fall 2021] 
-•	Statistical Procedures [Summer 2021] 
-•	Social Psychology [Spring 2021]
-•	Social Psychology [Fall 2020] 
-•	Personality Psychology [Summer 2020] 
-•	Research Methods [Fall 2018] 
-•	Biopsychology [Spring 2018] 
-•	Introduction to Psychology [Fall 2017] 
+Courses taught include: Introductory Psychology (Fall 2017, Fall 2021, Summer 2022, Spring 2024), Biopsychology (Spring 2018), Research Methods (Fall 2018, Summer 2022, Fall 2022), Statistics (Summer 2021, Fall 2023), Social Psychology (Fall 2020, Spring 2021, Winter 2024), Personality Psychology (Summer 2020), Health Psychology (Summer 2023), 
+Industrial-Organizational Psychology (Summer 2023)
 
 
 Heading 1
