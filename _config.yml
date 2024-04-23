@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Liz Wilson"
+  pronouns         : "she/her"  
+  bio              : "I am a 5th year PhD candidate in social/personality psychology at UC Riverside"
+  location         : "Riverside, CA"
+  employer         : "University of California, Riverside"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lwils031@ucr.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
